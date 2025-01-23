@@ -6,15 +6,21 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Leonardo Araya</h1></summary>
+  </ul>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Cronos10&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Cronos10?style=social" alt="Followers" />
   </a>
 </p>
 
@@ -23,14 +29,11 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**,**ReactNative**, **NodeJS**, **Dart**, **Flutter**.
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+  - ⚡ Fun fact: I'm a <a href="[https://en.wikipedia.org/wiki/Potato](https://www.linkedin.com/in/leonardo-araya-daza/)">Leonardo Araya</a>
 
   <br>
   
@@ -73,13 +76,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
@@ -92,11 +91,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/Cronos10">
+    <img width=450 height=170 align="center" alt="Cronos10" src="https://github-readme-stats.vercel.app/api?username=Cronos10&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/Cronos10">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cronos10&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -105,11 +104,8 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)]([https://www.linkedin.com/in/pablodsilva/](https://www.linkedin.com/in/leonardo-araya-daza/))&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Leonardo_Araya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-araya-daza/)](https://www.linkedin.com/in/leonardo-araya-daza/)
+  [![Hotmail Badge](https://img.shields.io/badge/-leonardo.araya.d@hotmail.com-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:leonardo.araya.d@hotmail.com)
 
 </div>
 
@@ -124,6 +120,6 @@
 
 
 ------
-Credits: [Pepyn0](https://github.com/Cronos10)
+Credits: [Cronos10](https://github.com/Cronos10)
 
 Last Edited on: 26/05/2022
