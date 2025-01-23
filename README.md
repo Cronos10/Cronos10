@@ -33,7 +33,7 @@
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: I'm a <a href="[https://en.wikipedia.org/wiki/Potato](https://www.linkedin.com/in/leonardo-araya-daza/)">Leonardo Araya</a>
+  - ⚡ Fun fact: I'm a <a href="[[https://en.wikipedia.org/wiki/Potato](https://www.linkedin.com/in/leonardo-araya-daza/](https://en.wikipedia.org/wiki/Potato)">Potato</a>
 
   <br>
   
