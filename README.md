@@ -29,7 +29,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**,**ReactNative**, **NodeJS**, **Dart**, **Flutter**.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **ReactNative**, **NodeJS**, **Dart**, **Flutter**.
 
   - 💬 Ask me about **any technology**.
 
